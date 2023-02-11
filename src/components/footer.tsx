@@ -91,7 +91,7 @@ const Footer = () => {
             <div className="row">
               <div className="col-lg-4 col-md-6">
                 <div className="footer-logo">
-                  <img src="/images/menu/logo/1.jpg" alt="Footer Log /o" />
+                  <img src="/images/logo.jpg" className="h-[45px]" />
                   <p className="info"></p>
                 </div>
                 <ul className="des">
